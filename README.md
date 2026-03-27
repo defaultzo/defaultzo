@@ -1,7 +1,7 @@
 <h1 align="center">🎮 Leonardo Araújo Marques</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Estagi%C3%A1rio+de+TI;T%C3%A9cnico+em+Inform%C3%A1tica;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Estagi%C3%A1rio+de+TI;T%C3%A9cnico+em+Inform%C3%A1tica;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo" />
 </p>
 
 <p align="center">
@@ -13,24 +13,19 @@
 
 ---
 
-<h2>🧩 Apresentação</h2>
+## 🧩 Apresentação
 
-<p>
-  Olá! Me chamo <strong>Leonardo Araújo Marques</strong>, tenho 17 anos e estou concluindo o
-  <strong>Ensino Médio Técnico em Informática</strong>.
-  Atualmente, atuo como <strong>estagiário de TI na Faculdade Anchieta</strong>, onde venho adquirindo
-  experiência prática e ampliando meus conhecimentos na área de tecnologia.
-</p>
+Olá! Me chamo **Leonardo Araújo Marques**, tenho 17 anos e estou concluindo o  
+**Ensino Médio Técnico em Informática**.
 
-<p>
-  Tenho interesse em programação, suporte técnico, automação e desenvolvimento de soluções que facilitem
-  processos do dia a dia. Estou sempre buscando aprender novas ferramentas e evoluir tanto no lado técnico
-  quanto profissional.
-</p>
+Atualmente, atuo como **estagiário de TI na Faculdade Anchieta**, onde venho adquirindo experiência prática e ampliando meus conhecimentos na área de tecnologia.
+
+Tenho interesse em programação, suporte técnico, automação e desenvolvimento de soluções que facilitem processos do dia a dia.  
+Estou sempre buscando aprender novas ferramentas e evoluir constantemente 🚀
 
 ---
 
-<h2>🚀 Habilidades e Tecnologias</h2>
+## 🚀 Habilidades e Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,cs,java,mysql" />
@@ -47,27 +42,23 @@
 
 ---
 
-<h2>🎯 Objetivo Profissional</h2>
+## 🎯 Objetivo Profissional
 
-<p>
-  Meu objetivo é crescer na área de tecnologia, adquirir cada vez mais experiência prática e participar
-  de projetos que contribuam para meu desenvolvimento como profissional. Quero continuar aprendendo e
-  construindo uma base sólida para minha carreira em TI.
-</p>
+Meu objetivo é crescer na área de tecnologia, adquirir cada vez mais experiência prática e participar de projetos que contribuam para meu desenvolvimento como profissional.
 
 ---
 
-<h2>🎨 Um pouco sobre mim</h2>
+## 🎨 Um pouco sobre mim
 
-<p>
-  Além da tecnologia, também gosto de <strong>videogames</strong> e <strong>desenhos</strong>.
-  Esses interesses fazem parte da minha personalidade e também ajudam a estimular minha criatividade,
-  curiosidade e vontade de explorar coisas novas.
-</p>
+Além da tecnologia, também gosto de:
+- 🎮 Videogames  
+- 🎨 Desenhos  
+
+Esses interesses ajudam a desenvolver minha criatividade e curiosidade.
 
 ---
 
-<h2>📊 Estatísticas do GitHub</h2>
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -76,31 +67,29 @@
 
 ---
 
-<h2>🌐 Contato</h2>
+## 🌐 Contato
 
 <p align="center">
   <a href="mailto:seuemail@email.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
   &nbsp;
   <a href="https://github.com/SEU-USUARIO">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/seu-linkedin">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/seu-instagram">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
 </p>
 
 ---
 
-<h2>✨ Sobre este perfil</h2>
+## ✨ Sobre este perfil
 
-<p>
-  Aqui você vai encontrar meus estudos, projetos e práticas desenvolvidas ao longo da minha jornada na área
-  de tecnologia. Este espaço representa minha evolução, meus aprendizados e minha vontade de crescer cada vez mais.
-</p>
+Aqui você vai encontrar meus estudos, projetos e práticas desenvolvidas ao longo da minha jornada na área de tecnologia.  
+Este espaço representa minha evolução e aprendizado contínuo 💡
