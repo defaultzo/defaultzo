@@ -1,4 +1,4 @@
-<h1 align="center">🎮 Leonardo Araújo Marques</h1>
+<h1 align="center">👾Leonardo Araújo Marques</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Estagi%C3%A1rio+de+TI;T%C3%A9cnico+em+Inform%C3%A1tica;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo" />
@@ -61,8 +61,8 @@ Esses interesses ajudam a desenvolver minha criatividade e curiosidade.
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=defaultzo&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defaultzo&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -70,11 +70,11 @@ Esses interesses ajudam a desenvolver minha criatividade e curiosidade.
 ## 🌐 Contato
 
 <p align="center">
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:leonardoaraujomarques611@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
   &nbsp;
-  <a href="https://github.com/SEU-USUARIO">
+  <a href="https://github.com/defaultzo">
     <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
   &nbsp;
@@ -82,7 +82,7 @@ Esses interesses ajudam a desenvolver minha criatividade e curiosidade.
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/seu-instagram">
+  <a href="https://www.instagram.com/marquess.zo">
     <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
 </p>
