@@ -2,34 +2,34 @@
 
 <h2>🚀 Sobre mim</h2>
 <p>
-  Olá! Me chamo Leonardo Araújo Marques, tenho 17 anos e atualmente sou estagiário de TI na Faculdade Anchieta.
-  Estou concluindo o Ensino Médio Técnico em Informática, onde venho desenvolvendo minha base na área de tecnologia e programação.
+  Sou Leonardo Araújo Marques, tenho 17 anos e estou finalizando o Ensino Médio Técnico em Informática.
+  Atualmente, trabalho como estagiário de TI na Faculdade Anchieta, onde venho fortalecendo minha experiência prática na área de tecnologia.
 </p>
 
 <p>
-  Tenho interesse em desenvolvimento de sistemas, automação e tecnologia da informação, buscando sempre aprender novas ferramentas
-  e aprimorar minhas habilidades profissionais. Também possuo inglês intermediário, o que me ajuda no aprendizado e no contato com conteúdos técnicos.
+  Tenho grande interesse por programação, suporte em TI e desenvolvimento de soluções que possam facilitar o dia a dia.
+  Busco constantemente aprender novas tecnologias, expandir meus conhecimentos e evoluir tanto no lado técnico quanto profissional.
 </p>
 
 <h2>🧠 Conhecimentos</h2>
 <ul>
   <li>🌐 HTML</li>
   <li>🎨 CSS</li>
-  <li>⚙️ Arduino</li>
+  <li>💻 C# em modo console</li>
   <li>☕ Java básico</li>
   <li>💾 Banco de Dados</li>
-  <li>💻 C# (modo console)</li>
   <li>🇬🇧 Inglês intermediário</li>
 </ul>
 
 <h2>🎯 Objetivo</h2>
 <p>
-  Meu objetivo é crescer profissionalmente na área de tecnologia, adquirir experiência prática e contribuir com projetos
-  que me ajudem a evoluir cada vez mais como profissional.
+  Meu foco é construir uma carreira sólida na área de tecnologia, adquirindo cada vez mais experiência e participando
+  de projetos que contribuam para meu crescimento pessoal e profissional.
 </p>
 
 <h2>✨ Sobre este perfil</h2>
 <p>
-  Aqui você vai encontrar meus estudos, projetos e práticas desenvolvidas ao longo da minha jornada na área de tecnologia.
-  Além disso, compartilho um pouco dos meus interesses, como videogames e desenhos, que fazem parte da minha criatividade e personalidade.
+  Neste perfil, compartilho meus estudos, projetos e experiências na área de TI.
+  Também faço questão de mostrar um pouco da minha personalidade, incluindo meus interesses por videogames e desenhos,
+  que fazem parte da minha rotina e criatividade.
 </p>
