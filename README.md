@@ -29,6 +29,7 @@ Estou sempre buscando aprender novas ferramentas e evoluir constantemente 🚀
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,cs,java,mysql" />
+  <img src="https://cdn.simpleicons.org/n8n/FF6C37" height="48" width="48" alt="n8n" style="vertical-align: middle; margin-left: 8px;" />
 </p>
 
 <p align="center">
@@ -38,6 +39,7 @@ Estou sempre buscando aprender novas ferramentas e evoluir constantemente 🚀
   <img src="https://img.shields.io/badge/C%23-Console-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-Básico-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Banco%20de%20Dados-Básico-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-Básico-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Inglês-Intermediário-2E8B57?style=for-the-badge&logo=googletranslate&logoColor=white" />
 </p>
 
