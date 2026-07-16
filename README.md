@@ -67,10 +67,6 @@ Esses interesses ajudam a desenvolver minha criatividade e curiosidade.
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
   &nbsp;
-  <a href="https://github.com/defaultzo">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
-  </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/seu-linkedin">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
