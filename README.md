@@ -28,10 +28,9 @@ Estou sempre buscando aprender novas ferramentas e evoluir constantemente 🚀
 ## 🚀 Habilidades e Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cs,java,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,java,mysql" />
   <img src="https://cdn.simpleicons.org/n8n/FF6C37" height="48" width="48" alt="n8n" style="vertical-align: middle; margin-left: 8px;" />
 </p>
-
 
 ---
 
